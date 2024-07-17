@@ -34,11 +34,11 @@ While Telegram bots charge fees and suffer from delays and performance issues, t
 
 ### Live Trading View
 
-![Live Trading](https://raw.githubusercontent.com/pumpfun/pump.fun-bot/main/pump.fun-bot.gif)
+![Live Trading](https://raw.githubusercontent.com/markantonydevs/pump.fun/main/trading_view.gif)
 
 ### Transaction Details
 
-![Transaction Details](https://raw.githubusercontent.com/pumpfun/pump.fun-bot/main/pumpfunbot.png)
+![Transaction Details](https://raw.githubusercontent.com/markantonydevs/pump.fun/main/logs.png)
 
 ### Installation Guide
 
