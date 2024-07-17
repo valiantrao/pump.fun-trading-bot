@@ -44,6 +44,8 @@ While Telegram bots charge fees and suffer from delays and performance issues, t
 
 [![Watch the video](https://img.youtube.com/vi/J9x8PbjrW2E.jpg)](https://youtu.be/J9x8PbjrW2E)
 
+[![Video Title](https://img.youtube.com/vi/J9x8PbjrW2E/0.jpg)](https://www.youtube.com/watch?v=J9x8PbjrW2E)
+
 ### Contact Us
 
 If you're interested in acquiring the Pump.fun bot or have any questions, please reach out to us through the following channel:
