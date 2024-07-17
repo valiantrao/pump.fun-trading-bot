@@ -62,9 +62,9 @@ While Telegram bots charge fees and suffer from delays and performance issues, t
   npm install ws
 
 ### How to Run
-After installing the required modules, start the bot by running the following command in the extracted directory:
-```sh
-node index.js
+- After installing the required modules, start the bot by running the following command in the extracted directory:
+   ```sh
+   node index.js
 
 ### Contact Us
 If you're interested in acquiring the Pump.fun bot, need the archive password, or have any questions, please contact us through the following channels:
