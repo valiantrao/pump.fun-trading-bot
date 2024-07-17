@@ -42,7 +42,7 @@ While Telegram bots charge fees and suffer from delays and performance issues, t
 
 ### How To Run
 
-![How To Run](https://youtu.be/J9x8PbjrW2E)
+[![Watch the video](https://img.youtube.com/vi/J9x8PbjrW2E.jpg)](https://youtu.be/J9x8PbjrW2E)
 
 ### Contact Us
 
