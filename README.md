@@ -1,5 +1,6 @@
 ## Pump.fun Trading Automation Bot
 
+
 Welcome to the Pump.fun Trading Automation Bot! This advanced bot automates the buying and selling of pump.fun tokens, acting as a fully automated sniper bot designed for pump.fun tokens. It allows you to snipe tokens early and sell them using a take-profit strategy. This is the only self-runnable trading bot for pump.fun tokens that actually works.
 
 ### Why Use the Pump.fun Bot?
