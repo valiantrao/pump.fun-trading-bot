@@ -38,40 +38,17 @@ While Telegram bots charge fees and suffer from delays and performance issues, t
 
 ### Transaction Details
 
-![Transaction Details](https://raw.githubusercontent.com/markantonydevs/pump.fun/main/Screenshot%202024-07-17%20150249.png)
+![Transaction Details](https://raw.githubusercontent.com/pumpfun/pump.fun-bot/main/pumpfunbot.png)
 
-### How To Run
+### Installation Guide
 
-[![Watch the video](https://img.youtube.com/vi/J9x8PbjrW2E.jpg)](https://youtu.be/J9x8PbjrW2E)
-
-[![Video Title](https://img.youtube.com/vi/J9x8PbjrW2E/0.jpg)](https://www.youtube.com/watch?v=J9x8PbjrW2E)
-
-### Contact Us
-
-If you're interested in acquiring the Pump.fun bot or have any questions, please reach out to us through the following channel:
-
-* **Telegram:** [https://t.me/markantonydevs](https://t.me/markantonydevs)
-
-### Who Should Use This Bot?
-
-This bot is perfect for both experienced traders looking to automate their workflow and newcomers who want to leverage algorithmic strategies.
-
-### Images
-
-> **Trading Live Terminal View:**
-
-![Live Terminal](https://raw.githubusercontent.com/pumpfun/pump.fun-bot/main/pump.fun-bot.gif)
-
-The bot functions like a token sniper with preset rules and customizable options for nearly every aspect of trading.
-
-**Bot Capabilities:**
-1. Monitors and tracks new tokens.
-2. Executes buys.
-3. Executes sells.
-4. (Sniper Mode) Instantly buys and sells tokens.
-
-> **Fetches New Tokens Instantly:**
-
-![Fetch Tokens](https://raw.githubusercontent.com/pumpfun/pump.fun-bot/main/pump.fun-bot.gif)
-
-Get the bot access that does automated trading and start maximizing your trading efficiency today!
+1. **Extract Archive:**
+   Download and extract the archive containing the bot files.
+   
+2. **Install Modules:**
+   Navigate to the extracted directory and install the necessary modules:
+   ```sh
+   npm install
+3. **Start the Bot:**
+   Run the bot using Node.js:
+   ``` print 'node index.js' ```
