@@ -40,6 +40,10 @@ While Telegram bots charge fees and suffer from delays and performance issues, t
 
 ![Transaction Details](https://raw.githubusercontent.com/markantonydevs/pump.fun/main/Screenshot%202024-07-17%20150249.png)
 
+### How To Run
+
+![How To Run](https://youtu.be/J9x8PbjrW2E)
+
 ### Contact Us
 
 If you're interested in acquiring the Pump.fun bot or have any questions, please reach out to us through the following channel:
