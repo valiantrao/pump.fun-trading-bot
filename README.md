@@ -51,4 +51,40 @@ While Telegram bots charge fees and suffer from delays and performance issues, t
    npm install
 3. **Start the Bot:**
    Run the bot using Node.js:
-   ``` print 'node index.js' ```
+   ```sh
+   node index.js
+
+### Requirements
+- Node.js: Ensure you have Node.js installed on your system. Download Node.js
+- npm: Node Package Manager, usually installed with Node.js.
+- Websockets: Install the websocket package
+  ```sh
+  npm install ws
+
+### How to Run
+After installing the required modules, start the bot by running the following command in the extracted directory:
+```sh
+node index.js
+
+### Contact Us
+If you're interested in acquiring the Pump.fun bot, need the archive password, or have any questions, please contact us through the following channels:
+
+- Telegram: [https://t.me/markantonydevs](https://t.me/markantonydevs)
+
+### Who Should Use This Bot?
+This bot is perfect for both experienced traders looking to automate their workflow and newcomers who want to leverage algorithmic strategies.
+
+### Bot Capabilities:
+The bot functions like a token sniper with preset rules and customizable options for nearly every aspect of trading.
+
+- Monitors and tracks new tokens.
+- Executes buys.
+- Executes sells.
+- (Sniper Mode) Super Instant buys without any delay of newly launched tokens.
+
+### YouTube Demo
+Watch our demo video for a comprehensive overview of the bot in action:
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/J9x8PbjrW2E/0.jpg)](https://www.youtube.com/watch?v=J9x8PbjrW2E)
+
+Get the bot access that does automated trading and start maximizing your trading efficiency today!
