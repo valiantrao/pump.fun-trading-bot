@@ -69,7 +69,7 @@ While Telegram bots charge fees and suffer from delays and performance issues, t
 ### Contact Us
 If you're interested in acquiring the Pump.fun bot, need the archive password, or have any questions, please contact us through the following channels:
 
-- Telegram: [https://t.me/markantonydevs](https://t.me/markantonydevs)
+- Telegram: [https://t.me/devalexio](https://t.me/devalexio)
 
 ### Who Should Use This Bot?
 This bot is perfect for both experienced traders looking to automate their workflow and newcomers who want to leverage algorithmic strategies.
